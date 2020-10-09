@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/AZ-WatchOnlineMovies/static/css/main.18852ae9.chunk.css",
-    "main.js": "/AZ-WatchOnlineMovies/static/js/main.e2ce4286.chunk.js",
-    "main.js.map": "/AZ-WatchOnlineMovies/static/js/main.e2ce4286.chunk.js.map",
+    "main.js": "/AZ-WatchOnlineMovies/static/js/main.4a33d246.chunk.js",
+    "main.js.map": "/AZ-WatchOnlineMovies/static/js/main.4a33d246.chunk.js.map",
     "runtime-main.js": "/AZ-WatchOnlineMovies/static/js/runtime-main.711849ae.js",
     "runtime-main.js.map": "/AZ-WatchOnlineMovies/static/js/runtime-main.711849ae.js.map",
     "static/js/2.1973da6a.chunk.js": "/AZ-WatchOnlineMovies/static/js/2.1973da6a.chunk.js",
     "static/js/2.1973da6a.chunk.js.map": "/AZ-WatchOnlineMovies/static/js/2.1973da6a.chunk.js.map",
     "index.html": "/AZ-WatchOnlineMovies/index.html",
-    "precache-manifest.f228452d1a371bf0757d4ca14c1e42a3.js": "/AZ-WatchOnlineMovies/precache-manifest.f228452d1a371bf0757d4ca14c1e42a3.js",
+    "precache-manifest.cc2a5aca248c4a7a50dbf4aaf1836eef.js": "/AZ-WatchOnlineMovies/precache-manifest.cc2a5aca248c4a7a50dbf4aaf1836eef.js",
     "service-worker.js": "/AZ-WatchOnlineMovies/service-worker.js",
     "static/css/main.18852ae9.chunk.css.map": "/AZ-WatchOnlineMovies/static/css/main.18852ae9.chunk.css.map",
     "static/js/2.1973da6a.chunk.js.LICENSE.txt": "/AZ-WatchOnlineMovies/static/js/2.1973da6a.chunk.js.LICENSE.txt",
@@ -21,6 +21,6 @@
     "static/js/runtime-main.711849ae.js",
     "static/js/2.1973da6a.chunk.js",
     "static/css/main.18852ae9.chunk.css",
-    "static/js/main.e2ce4286.chunk.js"
+    "static/js/main.4a33d246.chunk.js"
   ]
 }

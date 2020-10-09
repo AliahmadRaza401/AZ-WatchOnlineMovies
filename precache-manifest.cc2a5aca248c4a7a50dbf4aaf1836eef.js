@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "33b5265d31dd26ed25455f8700d59f07",
+    "revision": "773b95dbf26963784edf41891efd69c0",
     "url": "/AZ-WatchOnlineMovies/index.html"
   },
   {
-    "revision": "ff6a7a120614eabf6f15",
+    "revision": "167cef45d6782b1ece72",
     "url": "/AZ-WatchOnlineMovies/static/css/main.18852ae9.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AZ-WatchOnlineMovies/static/js/2.1973da6a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "ff6a7a120614eabf6f15",
-    "url": "/AZ-WatchOnlineMovies/static/js/main.e2ce4286.chunk.js"
+    "revision": "167cef45d6782b1ece72",
+    "url": "/AZ-WatchOnlineMovies/static/js/main.4a33d246.chunk.js"
   },
   {
     "revision": "49b64e7f412e51588cf6",

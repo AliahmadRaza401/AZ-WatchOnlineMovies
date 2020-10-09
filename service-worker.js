@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/AZ-WatchOnlineMovies/precache-manifest.f228452d1a371bf0757d4ca14c1e42a3.js"
+  "/AZ-WatchOnlineMovies/precache-manifest.cc2a5aca248c4a7a50dbf4aaf1836eef.js"
 );
 
 self.addEventListener('message', (event) => {
